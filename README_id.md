@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fastai/fastbook/master)  
 [English](./README.md) / [Spanish](./README_es.md) / [Korean](./README_ko.md) / [Chinese](./README_zh.md) / [Bengali](./README_bn.md) / [Indonesian](./README_id.md) / [Italian](./README_it.md)
 
-# Buku fastai
+# Buku fastai edit
 
 Notebook-notebook ini membahas pengantar deep learning, [fastai](https://docs.fast.ai/), dan [PyTorch](https://pytorch.org/). fastai adalah API berlapis untuk deep learning; untuk informasi lebih lanjut, lihat [the fastai paper](https://www.mdpi.com/2078-2489/11/2/108). Semua yang ada di repo ini adalah hak cipta Jeremy Howard dan Sylvain Gugger, 2020 dan seterusnya.
 
